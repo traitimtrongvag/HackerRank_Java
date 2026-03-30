@@ -1,4 +1,4 @@
-<h1 align="center">HackerRank Java Daily Challenge</h1>
+<h1 align="center">HackerRank Java</h1>
 
 <p align="center">
   Daily practice of Java problems on HackerRank.<br>
